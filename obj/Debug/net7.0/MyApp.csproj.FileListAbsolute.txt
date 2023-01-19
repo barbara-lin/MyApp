@@ -1,0 +1,15 @@
+/Users/Lulu/MyApp/bin/Debug/net7.0/MyApp
+/Users/Lulu/MyApp/bin/Debug/net7.0/MyApp.deps.json
+/Users/Lulu/MyApp/bin/Debug/net7.0/MyApp.runtimeconfig.json
+/Users/Lulu/MyApp/bin/Debug/net7.0/MyApp.dll
+/Users/Lulu/MyApp/bin/Debug/net7.0/MyApp.pdb
+/Users/Lulu/MyApp/obj/Debug/net7.0/MyApp.csproj.AssemblyReference.cache
+/Users/Lulu/MyApp/obj/Debug/net7.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Lulu/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfoInputs.cache
+/Users/Lulu/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfo.cs
+/Users/Lulu/MyApp/obj/Debug/net7.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/Lulu/MyApp/obj/Debug/net7.0/MyApp.dll
+/Users/Lulu/MyApp/obj/Debug/net7.0/refint/MyApp.dll
+/Users/Lulu/MyApp/obj/Debug/net7.0/MyApp.pdb
+/Users/Lulu/MyApp/obj/Debug/net7.0/MyApp.genruntimeconfig.cache
+/Users/Lulu/MyApp/obj/Debug/net7.0/ref/MyApp.dll
